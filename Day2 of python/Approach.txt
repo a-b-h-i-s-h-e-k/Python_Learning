@@ -1,0 +1,14 @@
+1. understand the problem clearly first(read it clearly)
+    identify input > output (input dhundo or ptaa lgao ki output kiya aayega)
+
+2. if question is big, then first break the problem
+s1,s2,s3,s4,s5,s6...(jb steps ko outline kar lenge tb hume khud be khud output ptaa lag jaayega)
+
+3. Transform to code
+
+4. test code with different output
+- verify result (agar integer me output aa rhaa haii to dusre case ko explore karo ki konsa correct output dega or konsa nahii)
+
+5. review code
+- kiya ye code or achaa ho sktaa haii, ya kisi dusri approach se solve kar sakte haii ki nahii
+- add comment humesa ki ku ye approach use kari.

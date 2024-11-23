@@ -1,0 +1,10 @@
+# This is comment
+
+
+# 1- single line comment we use (#)
+# 2- multi line comment(single qutaion --> (''' '''), double quation --> (""""""))
+
+
+
+
+
